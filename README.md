@@ -44,6 +44,8 @@ docker compose up -d
 - [三苏祠知识库](./assets/三苏祠.docx)
 
 # 效果展示
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./assets/demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/ec1b17c3-a908-46b1-bf02-4326ebb29769
+
+
