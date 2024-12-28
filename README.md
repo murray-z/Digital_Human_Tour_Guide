@@ -44,7 +44,6 @@ docker compose up -d
 - [三苏祠知识库](./assets/三苏祠.docx)
 
 # 效果展示
-<video width="600" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="./assets/demo.mp4" type="video/mp4">
 </video>
