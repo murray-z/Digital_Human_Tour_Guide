@@ -2,7 +2,8 @@
 数字人导游，以三苏祠为例
 
 # 项目简介
-本项目以三苏祠为例，实现数字人导游功能，包括语音识别、语音合成、语音对话、语音交互等功能。
+- 本项目基于awesome-digital-human-live2d和dify搭建数字人导游项目，以三苏祠为例，实现数字人导游功能。
+- 包含语音识别ASR、语音合成TTS、大模型对话LLM、知识库RAG、数字人等技术。
 
 # 依赖项目
 - [dify](https://github.com/langgenius/dify)
