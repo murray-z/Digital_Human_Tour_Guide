@@ -48,12 +48,12 @@ docker compose up -d
 
 3. 在dify搭建对话流程
    ![dify流程图](./assets/dify.png)
+
 4. 示例知识库文件
 
 - [三苏祠知识库](./assets/三苏祠.docx)
 
 # 效果展示
-
 https://github.com/user-attachments/assets/ec1b17c3-a908-46b1-bf02-4326ebb29769
 
 # 知识库校验
