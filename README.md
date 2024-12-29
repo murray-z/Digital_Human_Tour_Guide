@@ -45,8 +45,9 @@ docker compose up -d
 - [三苏祠知识库](./assets/三苏祠.docx)
 
 # 效果展示
-
-
 https://github.com/user-attachments/assets/ec1b17c3-a908-46b1-bf02-4326ebb29769
 
+# 知识库校验
+- ![占地面积](./assets/question1.png)
 
+- ![门票](./assets/question2.png)
